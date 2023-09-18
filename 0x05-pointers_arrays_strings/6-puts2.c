@@ -2,7 +2,7 @@
 
 /**
  * puts2 - printalt chars of string
- * @@str: string
+ * @str: string
  * Return: void
  */
 
