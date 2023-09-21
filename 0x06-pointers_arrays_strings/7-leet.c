@@ -20,7 +20,7 @@ char *leet(char *s)
 			case 'E':
 				s[i] = '3';
 				break;
-			case 'g';
+			case 'g':
 			case 'G':
 			s[i] = '6';
 			break;
