@@ -4,7 +4,7 @@ int tmp_prime(int n, int i);
 
 /**
  * divisors - checks if num is prime
- * @n: integer 
+ * @n: integer
  * @m: integer
  * Return: boolean
  */
