@@ -3,7 +3,7 @@
 
 /**
  * ch_free_grid - free 2 dimensional array.
- * @grid: multidimensional array 
+ * @grid: multidimensional array
  * @height: height of the array.
  *
  * Return: nithing
