@@ -19,7 +19,7 @@ char *_memset(char *s, char b, unsigned int n)
 }
 
 /**
- * _calloc - allocates memory 
+ * _calloc - allocates memory
  * @nmemb: n elements
  * @size: bytes
  * Return: pointer
