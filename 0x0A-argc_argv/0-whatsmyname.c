@@ -12,6 +12,7 @@ int main(int argc __attribute__((unused)), char *argv[])
 	if (argc > 0)
 	{
 		char *lastocc = strrchr(argv[0], '/');
+
 		if (lastocc != NULL)
 		{
 			lastocc++;
