@@ -4,7 +4,6 @@
  * delete_dnodeint_at_index - delete a node at index position
  * @head: pointer to head in function
  * @index: index or position to be added
- * 
  * Return: 1 success -1 failure
  */
 
