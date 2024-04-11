@@ -1,10 +1,6 @@
 Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
-<<<<<<< HEAD
 This repository contains programs written for the low-level programming and algorithm track in the ALX Software Engineering Program. In these projects I learned about data structures, algorithms, and other low-level programming concepts while working in the C programming language. The specific list of projects contained follows:
 
-=======
-This repository contains programs written for the low-level programming and algorithm track in the ALX Software Engineering Program. In these projects we learned algorithms, data structures, and other low-level programming concepts while working in the C programming language. The specific list of projects contained follows:
->>>>>>> 5a9b7141a898ecf31827edd491aef9a19521a3c3
 0x00. C - Hello, World
 0x01. C - Variables, if, else, while
 0x02. C - Functions, nested loops
@@ -36,10 +32,5 @@ This repository contains programs written for the low-level programming and algo
 0x1C. C - Makefiles
 0x1D. C - Binary trees
 0x1E. C - Search Algorithms
-<<<<<<< HEAD
-Author
+Author✍️
 Efa Tariku
-
-ALX Africa Logo
-=======
->>>>>>> 5a9b7141a898ecf31827edd491aef9a19521a3c3
