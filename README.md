@@ -2,7 +2,7 @@
 Welcome to the ALX Low-Level Programming repository. This repository contains projects and assignments related to low-level programming, primarily focusing on the C programming language. It is part of the ALX Software Engineering Program, which aims to provide a solid foundation in computer science and software engineering.
 
 ## Table of Contents
-* **[Description](#Description)
+* [Description](#Description)
 * **[Project Structure](#Project-Structure)**
 * **[Requirements](#Requirements)**
 * **[Installation](#Installation)**
